@@ -23,12 +23,12 @@ Soy una desarrolladora web apasionada por **crear experiencias que generen emoci
 
 - **🎨 Amante del diseño** - El frontend es mi pasión, pero disfruto del desarrollo completo
 - **🔥 Resiliente** - Las dificultades no me detienen, siempre encuentro una solución
-- **💝 Entregado** - Le pongo todo de mí a cada proyecto
+- **💝 Entregada** - Le pongo todo de mí a cada proyecto
 - **📚 Autodidacta** - Si no lo sé, lo aprendo
 
 ## 🌟 Mis proyectos
 
-Todos mis proyectos los amo profundamente, pero **mi portfolio** es lo que más me identifica - representa mi esencia como creador de experiencias únicas.
+Todos mis proyectos los amo profundamente, pero **mi portfolio** es lo que más me identifica - representa mi esencia como creadora de experiencias únicas.
 
 ## 🎭 Más allá del código
 
